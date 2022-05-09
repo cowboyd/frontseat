@@ -1,0 +1,10 @@
+{
+  "lint": {
+    "rules": {
+      "exclude": ["prefer-const"]
+    }
+  },
+  "tasks": {
+    "choose": "deno run choose.ts"
+  }
+}
