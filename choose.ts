@@ -1,7 +1,7 @@
 import { Seed } from 'https://deno.land/x/seed@1.0.0/index.ts';
 
-const NIILO_AGE = 12;
-const SAARA_AGE = 10;
+const NIILO_AGE = 14;
+const SAARA_AGE = 12;
 
 const TotalYearsOnEarth = NIILO_AGE + SAARA_AGE;
 
